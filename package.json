@@ -1,0 +1,17 @@
+{
+  "name": "neural-training",
+  "version": "0.1.0",
+  "dependencies": {
+    "bean": "latest",
+    "bonzo": "latest",
+    "qwery": "latest",
+    "require": "latest",
+    "requirejs": "^2.1.20",
+    "underscore": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "jsdom": "latest",
+    "sinon": "latest"
+  }
+}
